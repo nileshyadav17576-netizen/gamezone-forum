@@ -26,11 +26,31 @@ HTML5, CSS3, JavaScript, localStorage, GitHub Pages
 | features.js | Likes, comments, search, filters, navigation, notifications |
 
 ## Team Contributions
-| Member | Contribution |
-|---|---|---|
-| Aman | Header, navigation, profile modal, sidebar (HTML, CSS, JS) |
-| Piyush |  Create-post form, post cards, saving and rendering (HTML, CSS, JS) |
-| Nilesh | Search, filters, likes, bookmarks, comments, share (HTML, CSS, JS) |
-
-## How to Run
-Open the live demo link, or download the files and open `index.html` in a browser.
+<dl>
+<dt>Members:</dt>
+  <dd>
+    <ul>
+      <li>Aman<li>Piyush<li>Nilesh</li>
+    </ul>
+  </dd>
+<dt>Contribution :</dt>
+  <dd>
+<ol>
+  <li>Aman 
+  <ul>
+    <li>Header navigation<li>profile modal<li>sidebar (HTML, CSS, JS)</li>
+  </ul>
+  <li>Piyush
+    <ul>
+      <li>Create-post form<li>post cards<li>saving and rendering (HTML, CSS, JS)</li>
+    </ul>
+  <li>Nilesh
+    <ul>
+      <li>Search<li>filters<li>likes<li>bookmarks<li>comments<li>share (HTML, CSS, JS)</li>
+    </ul>
+  </ol>
+  </dd>
+</dl>
+<hr>
+<div>How to Run?</div>
+<div>Open the live demo link or download the files and open `index.html` in a browser.</div>
